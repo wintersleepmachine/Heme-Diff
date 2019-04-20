@@ -223,7 +223,7 @@ class App extends React.Component {
 
                 
                     <div className='ui medium icon input'> 
-                        <input type="number" placeholder = 'Enter total WBC count' onChange={this.totalWBC} className='quantity' required/>
+                        <input type="number" placeholder = 'Enter total WBC count' onChange={this.totalWBC} className='quantity' required step='any'/>
                     </div>
                 
                     
