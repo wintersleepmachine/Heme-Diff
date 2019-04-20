@@ -1,0 +1,29 @@
+#diff-input {
+    caret-color: transparent
+}
+
+.quantity::-webkit-inner-spin-button, 
+.quantity::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+input.placeholder {
+    text-align: center;
+}
+
+body{
+  font-family: 'Frank Ruhl Libre', serif;
+  box-shadow:inset -70px 0 200px -30px rgba(0,0,0,.35);
+
+}
+
+.title {
+  font-family: 'Crimson Text', serif;
+  text-decoration: underline;
+}
+
+html, body {
+  height:100%;
+}
+
