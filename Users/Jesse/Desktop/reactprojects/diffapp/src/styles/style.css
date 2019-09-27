@@ -14,7 +14,8 @@ input.placeholder {
 
 body{
   font-family: 'Frank Ruhl Libre', serif;
-  box-shadow:inset -70px 0 200px -30px rgba(0,0,0,.35);
+  background-color: #D5D5D5;
+  zoom: 75%;
 
 }
 
